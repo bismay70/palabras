@@ -1,3 +1,11 @@
 export default function Header() {
-    return <div>login</div>;
+    return (
+        <header className="p-4 bg-white shadow-md">
+           <div>
+            <div>
+                
+            </div>
+           </div>
+        </header>
+    );
 }
